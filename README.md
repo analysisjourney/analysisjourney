@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://share.google/2tBDd2091VHUHbdot" width="100%" />
-</p>
+<img width="1080" height="360" alt="c6d1685f367146a7ceac4fdfcbce3aa8" src="https://github.com/user-attachments/assets/a64a5974-0d28-4582-af7d-010736af5a18" />
+
 <h1 align="center">
 💜 Turning data into insights 
 </h1>
