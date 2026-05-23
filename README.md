@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[رابط الصورة هنا](https://i.pinimg.com/736x/ee/2c/59/ee2c596944ed38d59779852c9908ad53.jpg)" width="100%" />
+</p>
 <h1 align="center">
 💜 Turning data into insights 
 </h1>
