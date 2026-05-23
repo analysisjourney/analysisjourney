@@ -19,7 +19,7 @@ Business Administration Graduate ⟡ Aspiring BI & Data Analytics Professional
 Excel ⟡ SQL ⟡ Power BI ⟡ Data Analysis ⟡ Business Analysis
 </p>
 
-### 💜 Current Goals
+### ◈ Current Goals
 - Building a strong analytics portfolio
 - Creating dashboards & KPI reports
 - Improving data storytelling skills
