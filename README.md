@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Shahad ✦</h1>
+<h1 align="center">
+  💜 𝑺𝒉𝒂𝒉𝒂𝒅 
+</h1>
 
 <p align="center">
 Business Administration Graduate ⟡ Aspiring BI & Data Analytics Professional
@@ -6,18 +8,18 @@ Business Administration Graduate ⟡ Aspiring BI & Data Analytics Professional
 
 ---
 
-### About Me
+## 💜 About Me
 - 📊 Interested in Data Analytics & Business Intelligence
-- 📈 Building practical projects using Excel & SQL
+- 📈 Building practical projects using Excel
 - 🧩 Interested in Operations & Process Improvement
 - 🌱 Continuously learning and developing analytical skills
 
-### Tools & Skills
+### 💜 Tools & Skills
 <p>
 Excel ⟡ SQL ⟡ Power BI ⟡ Data Analysis ⟡ Business Analysis
 </p>
 
-### Current Goals
+### 💜 Current Goals
 - Building a strong analytics portfolio
 - Creating dashboards & KPI reports
 - Improving data storytelling skills
