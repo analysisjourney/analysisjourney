@@ -12,8 +12,7 @@ Business Administration Graduate ⟡ Aspiring BI & Data Analytics Professional
 
 ## ◈ About Me         
 - 📊 Interested in Data Analytics & Business Intelligence
-- 📈 Building practical projects using Excel    <img width="736" height="736" alt="ee2c596944ed38d59779852c9908ad53" src="https://github.com/user-attachments/assets/7b1660ed-80f9-45e3-8393-d3c0da8eb831" />
-
+- 📈 Building practical projects using Excel   
 - 🧩 Interested in Operations & Process Improvement
 - 🌱 Continuously learning and developing analytical skills
 
