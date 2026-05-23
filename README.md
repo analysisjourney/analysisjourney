@@ -1,6 +1,4 @@
-<img width="120" height="736" alt="ee2c596944ed38d59779852c9908ad53" src="https://github.com/user-attachments/assets/1fa148d6-45a6-4a3f-bce0-450824c3cf9c" />
-<h1 align="right">
-  💜 Turning data into insights 
+💜 Turning data into insights 
 </h1>
 
 <p align="center">
